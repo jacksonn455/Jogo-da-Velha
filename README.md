@@ -13,10 +13,6 @@ Aplicativo desenvolvido para linguagem de programação III em Kotlin
  
  ![](https://github.com/jacksonn455/Jogo-da-Velha/blob/main/img/splash.png)
 --------------------
- Tela de Login por Senha e TouchID (FireBase)
- 
- ![](https://github.com/jacksonn455/armarios_inteligentes_biccateca/blob/master/login3.png)
---------------------
  
   Banco de dados
  
