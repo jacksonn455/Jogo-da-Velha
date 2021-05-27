@@ -2,7 +2,7 @@
 
 Aplicativo  desenvolvido para linguagem de programação III
 
-===============================================
+--------------------
  
  Tela do icone
  
@@ -48,4 +48,4 @@ Aplicativo  desenvolvido para linguagem de programação III
  
  ![](https://github.com/jacksonn455/Jogo-da-Velha/blob/main/img/jogo.png)
 
-===============================================
+--------------------
