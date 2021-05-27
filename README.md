@@ -1,6 +1,6 @@
 *Jogo da velha*
 
-Aplicativo  desenvolvido para linguagem de programação III
+Aplicativo desenvolvido para linguagem de programação III em Kotlin
 
 --------------------
  
